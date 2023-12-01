@@ -9,3 +9,8 @@ Start time: 5:28pm
 Finish time: 
 
 Actual time needed to complete: 
+
+
+## Live site
+
+[Portfolio](https://portfolio-bhuddleston.netlify.app/)
