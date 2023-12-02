@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Dynamic Cookie Store",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "An assigned project given to me in Code Fellows Code 201. The application is a dynamic cookie stand simulator that takes user input and renders it as data in the table provided.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/projectOne/salmonTable.png",
+          "images/portfolio/projectOne/salmonCode.png"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Cocktail Generator",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "As a part of group, we designed an application that gives users the ability input certain drink ingredients and will display a unique drink recipe for users to enjoy!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/projectTwo/xbjHome.png",
+          "images/portfolio/projectTwo/xbjCode.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Code 301 Project",
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/projectThree/p1.jpg",
+          "images/portfolio/ProjectThree/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
