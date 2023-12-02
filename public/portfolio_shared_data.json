@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Brendan Huddleston",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Veteran | Software Developer | Certified Cloud Practitioner | Scrum Master | Secret Security Clearance" ],
       "social": [
         {
           "name": "github",
@@ -9,12 +9,12 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/brendan-huddleston-17b745b9/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "linkedin.jpeg"
     },
     "skills": {
       "icons": [
