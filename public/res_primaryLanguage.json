@@ -18,19 +18,19 @@
           "images/portfolio/projectOne/salmonTable.png",
           "images/portfolio/projectOne/salmonCode.png"
         ],
-        "url": "",
+        "url": "https://github.com/brendanhuddleston18/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -42,11 +42,15 @@
           "images/portfolio/projectTwo/xbjHome.png",
           "images/portfolio/projectTwo/xbjCode.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/XBJ-Software-Solutions/XBJ-Cocktail-Generator",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -65,8 +69,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-typescript-plain",
